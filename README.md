@@ -37,5 +37,5 @@ Errata for NST (Notes on Set Theory, 2nd Edition) by Y. N. Moschovakis
 * 85, 6.38, L-1: maybe replace "when" by "only when"?
 * 93, 7.20: "injection" is redundant (see Exercise 7.13)
 * 96, L-3: linebreak in math mode
-* 96, L-2: "\leq" should be "\leq_P"
-* 97, L2: "\leq" should be "\leq_P"
+* 96, L-2: `\leq` should be `\leq_P`
+* 97, L2: `\leq` should be `\leq_P`
