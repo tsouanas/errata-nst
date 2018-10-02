@@ -28,7 +28,7 @@ Errata for NST (Notes on Set Theory, 2nd Edition) by Y. N. Moschovakis
 * 75, 6.15: "6.2" should not be italics (compare with Exercise 6.4, p.73)
 * 76, 6.18: seems like `\Rightarrow` was used instead of `\implies` (spacing is too tight)
 * 76, 6.20: better use `\cdots` or `\dotsb`
-* 79, 6.28, I.S.: There is no _h_ anywhere, so why use a prime here?  (rename all _h'_s to _h_s)
+* 79, 6.28, I.S.: There is no _h_ anywhere, so why use a prime here?  Rename every _h'_ to _h_
 * 81, 6.31, L-2: "f(n+1)" should be "f(n+i)"
 * 81, 6.33, (2): "divides evenly" -> "divides" ("evenly" is redundant here)
 * 85, x6.12, L-2: closing "]" missing
