@@ -11,8 +11,8 @@
 * 24 (and elsewhere): some periods right after axioms/numbers are boldface,
   others aren't
 * 33, L5: "the fundamental theorem 2.21 of Cantor is about the set R of real
-  numbers" <- it doesn't seem that way, it's about any set A;
-  it is corollary 2.14 talks about R.
+  numbers": it doesn't seem that way; it is about any set A;
+  it is Corollary 2.14 that talks about R
 * 42, 4.20, L-3: decrease spacing before "!"
 * 43, Ex4.26: increase spacing around "and" and/or substitute by "&"
 * 49: problem x4.27 is marked as difficult, but it isn't; all its difficulty
