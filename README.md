@@ -1,5 +1,6 @@
-# errata-nst
-Errata for NST (Notes on Set Theory, 2nd Edition) by Y. N. Moschovakis
+# Errata for NST (Notes on Set Theory, 2nd Edition, by Y. N. Moschovakis)
+
+## Errata
 
 * ix, P3, L2: `\LaTeX and` should be `\LateX\ and`
 * 2: four "<=>" should be "<=>_def"
@@ -37,3 +38,19 @@ Errata for NST (Notes on Set Theory, 2nd Edition) by Y. N. Moschovakis
 * 96, L-3: linebreak in math mode
 * 96, L-2: `\leq` should be `\leq_P`
 * 97, L2: `\leq` should be `\leq_P`
+* 97, L3: "need show" should be "need to show"
+* 97, 7.26, P2, L-1: "Hartogs'" should be "Hartogs's" (repeated throughout the book)
+* 195, x12.36: "fp(M)" should be "fp(F)"
+* 195, x12.39: "a cofinal" should be "a monotone cofinal" (?)
+* 249: change non-bold periods after exercise numbers to bold (repeated throughout)
+* 249, 2.20, L2&L9: delete commas
+* 253, 4.23, L4: "are mutually exclusive": the way _h_ is defined the cases are always mutually exclusive (because of the "otherwise ...")
+* 256, 6.12, P2: maybe add a "by exercise 6.11" here (?)
+* 257, 6.20: change "max_P(...)" to "max_P{...}"
+* 259, 7.10: "(in fact it is a similarity)": the term "similarity" has not been defined yet (it is defined at 7.11)
+
+## Index additions
+
+* grounded poset
+* predecessor
+* successor
