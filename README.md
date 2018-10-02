@@ -17,14 +17,14 @@
 * 43, Ex4.26: increase spacing around "and" and/or substitute by "&"
 * 49: problem x4.27 is marked as difficult, but it isn't; all its difficulty
   lies in problem x4.26 instead!
-* 54, commas after (1) and (2): one is bold, the other one isn't.
-* 55, 5.8: "5.6" missing?  Compare with 5.5 in p.52.
-* 56, 5.9, L9: The parenthetic text seems weird.
+* 54, commas after (1) and (2): one is bold, the other one isn't
+* 55, 5.8: "5.6" missing(?): compare with 5.5 in p.52
+* 56, 5.9, L9: the parenthetic text seems weird
 * 59, 5.14, L10: add more space before "by (5-6)"
-* 61, 5.18: One I.S. is "Induction step" the other one "Induction Step"
-* 63: Get rid of the parentheses in cases to be consistent with p. 141.
+* 61, 5.18: one I.S. is "Induction step" the other one "Induction Step"
+* 63: get rid of the parentheses in cases to be consistent with p.141
 * 74, 6.7, L8: change "!) " to "!)\ " to fix sentence-ending spacing
-* 74, 6.7, L10: better end this line with ":".
+* 74, 6.7, L10: better end this line with ":"
 * 75, 6.10, L3: make "chain-complete" bold (consistency with previous style)
 * 75, 6.15: "6.2" should not be italics (compare with Exercise 6.4, p.73)
 * 76, 6.18: seems like `\Rightarrow` was used instead of `\implies` (spacing is too tight)
